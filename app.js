@@ -11,7 +11,19 @@ const getData = () => [
     {imgSrc: './images/Ovidijus1.JPG'},
     {imgSrc: './images/Ovidijus2.JPG'},
     {imgSrc: './images/Ovidijus3.JPG'},
-    {imgSrc: './images/Ovidijus4.JPG'}
+    {imgSrc: './images/Ovidijus4.JPG'},
+    {imgSrc: './images/Ovidijus6.JPG'},
+    {imgSrc: './images/Ovidijus7.JPG'},
+    {imgSrc: './images/Ovidijus8.JPG'},
+    {imgSrc: './images/Ovidijus9.JPG'},
+    {imgSrc: './images/Ovidijus1.JPG'},
+    {imgSrc: './images/Ovidijus2.JPG'},
+    {imgSrc: './images/Ovidijus3.JPG'},
+    {imgSrc: './images/Ovidijus4.JPG'},
+    {imgSrc: './images/Ovidijus6.JPG'},
+    {imgSrc: './images/Ovidijus7.JPG'},
+    {imgSrc: './images/Ovidijus8.JPG'},
+    {imgSrc: './images/Ovidijus9.JPG'}
 ];
 
 // randomize cards
