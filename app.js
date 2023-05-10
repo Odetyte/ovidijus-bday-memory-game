@@ -70,7 +70,7 @@ cardData.forEach((item, index) => {
 playerlives = 10;
 playerLivesCount.textContent = playerlives;
 setTimeout(() =>  {
-    window.alert(text), 100
+    window.alert(text), 1000
 })
 
 }
@@ -106,7 +106,9 @@ const toggleCard = document.querySelectorAll(".toggleCard")
     }
     // Run the check if we won the game
     if(toggleCard.length === 16){
-        restart("🥂 Laimėjai - prašom kreiptis į administraciją dėl prizo");
+        setTimeout(() => 
+            restart("🥂 Laimėjai - prašom kreiptis į administraciją dėl prizo"), 1000
+        )
     }
     
 ;};
